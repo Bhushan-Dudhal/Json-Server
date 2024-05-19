@@ -1,0 +1,64 @@
+{
+
+  "EMPLOYEE":[
+       {
+        "id":1,
+        "name":"yuvraj",
+        "sal":50000,
+        "address":"karegaon"
+
+       },
+        {
+        "id":2,
+        "name":"prasad",
+        "sal":60000,
+        "address":"shevgaon"
+
+       },
+        {
+        "id":3,
+        "name":"Akshay",
+        "sal":70000,
+        "address":"A.nagar"
+
+       },
+        {
+        "id":4,
+        "name":"akash",
+        "sal":80000,
+        "address":"beed"
+
+       }
+
+  ],
+
+
+   "STUDENT":[
+       {
+        "id":1,
+        "name":"ram",
+        "address":"nashik"
+
+       },
+        {
+        "id":2,
+        "name":"amol",
+        "address":"paithan"
+
+       },
+        {
+        "id":3,
+        "name":"sanket",
+        "address":"nevasa"
+
+       },
+        {
+        "id":4,
+        "name":"shubham",
+        "address":"tisgaon"
+
+       }
+
+  ]
+
+}
